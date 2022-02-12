@@ -102,10 +102,11 @@ body {
   display: flex;
 }
 
-.divide{
+.divide {
   margin-top: 30px;
   padding: 0;
   display: flex;
+  width: 1000px;
 }
 
 .sections-2 {
@@ -127,10 +128,6 @@ body {
   padding-left: 0;
   margin: 10px 5px;
   list-style: none;
-}
-
-.divide {
-  width: 1000px;
 }
 
 .footer-icons {
